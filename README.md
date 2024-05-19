@@ -1,8 +1,10 @@
-# React + Vite
+# Proyecto Personal: Mi Portafolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es el repositorio de mi portafolio personal, donde muestro algunos de los proyectos en los que he trabajado, así como también comparto un poco sobre mi experiencia laboral y habilidades.
 
-Currently, two official plugins are available:
+## Tecnologías Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**: Utilizado para construir la interfaz de usuario dinámica y reactiva.
+- **Tailwind CSS**: Framework de estilos utilizado para el diseño y la maquetación del sitio web.
+
+![Acerca de mi](https://github.com/justin-campos/AboutMeReact/blob/main/public/images/about.jpeg?raw=true)
