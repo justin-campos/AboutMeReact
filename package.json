@@ -1,7 +1,7 @@
 {
   "name": "portafolio",
   "private": true,
-  "homepage": "https://justin-campos.github.io/react-github-pages/dist",
+  "homepage": "https://justin-campos.github.io/AboutMeReact/dist",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
