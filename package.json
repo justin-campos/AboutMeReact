@@ -1,6 +1,7 @@
 {
   "name": "portafolio",
   "private": true,
+  "homepage": "https://justin-campos.github.io/react-github-pages/build",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
